@@ -4,7 +4,7 @@
   <br>
 </p>
  
-Repositório contendo a resolução do teste proposte para o processo seletivo para Cientista de Dados na TerraQ em Jan/24 por Sophia Helena de Paula.
+Repositório contendo a resolução do teste proposto para o processo seletivo para Cientista de Dados na TerraQ em Jan/24 por Sophia Helena de Paula.
 
 # Instruções de instalação/configuração
 
