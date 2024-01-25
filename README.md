@@ -1,9 +1,3 @@
-<p align="center">
-  <br>
-  <img alt="TerraQ logo" width="150" src="https://sigma01.nyc3.digitaloceanspaces.com/terraq/assets/images/logo/logo.png"/>
-  <br>
-</p>
- 
 Repositório contendo a resolução do teste proposto para o processo seletivo para Cientista de Dados na TerraQ em Jan/24 por Sophia Helena de Paula.
 
 # Instruções de instalação/configuração
