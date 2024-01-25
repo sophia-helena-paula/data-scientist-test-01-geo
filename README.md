@@ -14,7 +14,7 @@ Instale as dependências do projeto:
 pip install -r requirements.txt
 ```
 
-## Lista de tarefas a serem cumpridas
+## Lista de tarefas cumpridas
 - [ ] Faça um script que baixa o dataset de municípios do estado de Minas Gerais (usando este [LINK](https://raw.githubusercontent.com/tbrugz/geodata-br/master/geojson/geojs-31-mun.json), transforme-o em um GeoJSON na projeção EPSG:31983 e salve-o no diretório `dados/` com o nome `municipios-mg.geojson`. Em seguida, neste mesmo script, adicione uma coluna a este vetor contendo a área de cada município em km² e salve o resultado no mesmo arquivo.
 - [ ] Procure uma fonte confiável na internet de dados de população e PIB dos municípios brasileiros e salve os dados de população e PIB dos municípios de Minas Gerais em um arquivo CSV com o nome `dados/populacao-pib-municipios-mg.csv`.
 - [ ] Utilize os dois arquivos de focos de desmatamento como base (`dados/desmatamento_ago22.gpkg` e `dados/desmatamento_set_22.gpkg`), junte-os em um único dataset, transforme-o em um GeoJSON na projeção EPSG:31983 e salve-o em `dados/focos-desmatamento-mg.geojson`.
