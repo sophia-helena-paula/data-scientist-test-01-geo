@@ -5,7 +5,7 @@ Repositório contendo a resolução do teste proposto para o processo seletivo p
 Para começar, clone o repositório localmente:
 
 ```
-git clone https://github.com/sophia-helena-paula/data-scientist-test-jan-2024.git
+git clone https://github.com/sophia-helena-paula/data-scientist-test-01-geo
 ```
 
 Instale as dependências do projeto:
